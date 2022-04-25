@@ -19,7 +19,7 @@
 
 ## Sigchain transaction
 
-(is similar to **omnitransaction**)
+(is similar to **omnitransaction** | [omnilayer](https://www.omnilayer.org/))
 
 **BLUE** part: sigchain address
 
