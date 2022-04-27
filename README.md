@@ -57,8 +57,8 @@ Client-validated data
 
 ## Links
 
-- [RGB-node](https://github.com/RGB-WG/rgb-node)
-- [client-validated data](https://github.com/LNP-BP/client_side_validation/)
+- [github/RGB-node](https://github.com/RGB-WG/rgb-node)
+- [github/client-validated data](https://github.com/LNP-BP/client_side_validation/)
 - [youtube/RGB Digital identity, Naming & Reputation](https://www.youtube.com/watch?v=swtr7pwWUhY)
 
 
