@@ -60,7 +60,7 @@ Client-validated data
 - [github/RGB-node](https://github.com/RGB-WG/rgb-node)
 - [github/client-validated data](https://github.com/LNP-BP/client_side_validation/)
 - [youtube/RGB Digital identity, Naming & Reputation](https://www.youtube.com/watch?v=swtr7pwWUhY)
-
+- [www/rgb explorer](https://rgbex.io/) RGB20 (fungible), RGB21 (NFT), *RGB22* ...
 
 
 
