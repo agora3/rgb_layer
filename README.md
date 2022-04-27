@@ -45,6 +45,16 @@ Single-use-seals
 
 Client-validated data
 
+
+## Design goals #AICUUT
+- Antifragile 
+- Individualistic
+- Confidential
+- Uncensorabile
+- Unconfiscatable
+- Trustless
+
+
 ## Links
 
 - [RGB-node](https://github.com/RGB-WG/rgb-node)
